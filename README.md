@@ -10,8 +10,8 @@ Welcome to my corner of GitHub! I'm passionate about blending creativity with te
 
 ## 🔭 Current Projects
 
-### ImagiGen – AI-Powered Image Synthesis
-My final year project focuses on using GANs to generate realistic images. Dive into the world of AI and creativity!
+### Math Gestures
+An intuitive app that solves math problems drawn by hand using advanced AI recognition
 
 ### Anti-Spoofing/Liveliness Detection
 Detecting fake vs. real live video streams using advanced computer vision techniques.
@@ -25,8 +25,7 @@ Currently, I'm exploring:
 
 ## 💬 Let's Connect
 
-- LinkedIn: [Vedanshi Shukla](https://www.linkedin.com/in/vedanshi-shukla)
-- Email: [vedanshi.shukla@example.com](mailto:vedanshi.shukla@example.com)
+- LinkedIn: [Vedanshi Shukla](www.linkedin.com/in/vedanshi-shukla10)
 
 ## 📫 Reach Out
 
