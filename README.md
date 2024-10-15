@@ -1,9 +1,3 @@
-## Hi there 👋
-
-Certainly! Here's a creative README file template for your GitHub account:
-
----
-
 # Hey there, I'm Vedanshi Shukla! 👋
 
 Welcome to my corner of GitHub! I'm passionate about blending creativity with technology, and here you'll find a mix of my projects ranging from AI to software development and beyond.
